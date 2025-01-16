@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repo-name/static/css/main.7e30ff74.css",
+    "main.js": "/repo-name/static/js/main.4e002b9f.js",
+    "static/js/488.b5fb6f0b.chunk.js": "/repo-name/static/js/488.b5fb6f0b.chunk.js",
+    "static/media/edw.PNG": "/repo-name/static/media/edw.bdcbd0a917e7ebecf215.PNG",
+    "static/media/aer.PNG": "/repo-name/static/media/aer.a5ac24b9e0968e0930fa.PNG",
+    "static/media/email.PNG": "/repo-name/static/media/email.25fbdeee98e53e38c15d.PNG",
+    "static/media/AdinaMartiniucCV.pdf": "/repo-name/static/media/AdinaMartiniucCV.08fe46a20afad814bbf3.pdf",
+    "static/media/apped (1).jpeg": "/repo-name/static/media/apped (1).6d8ebc81fd42b1d13d55.jpeg",
+    "static/media/imgcv.png": "/repo-name/static/media/imgcv.5fa55ec5bdddcf4704f0.png",
+    "static/media/endo.PNG": "/repo-name/static/media/endo.c6d29cea9e28c45d6d0e.PNG",
+    "static/media/alien2.avif": "/repo-name/static/media/alien2.8ea9c5b4aedea253fb2b.avif",
+    "index.html": "/repo-name/index.html",
+    "main.7e30ff74.css.map": "/repo-name/static/css/main.7e30ff74.css.map",
+    "main.4e002b9f.js.map": "/repo-name/static/js/main.4e002b9f.js.map",
+    "488.b5fb6f0b.chunk.js.map": "/repo-name/static/js/488.b5fb6f0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e30ff74.css",
+    "static/js/main.4e002b9f.js"
+  ]
+}
